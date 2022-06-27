@@ -1,4 +1,4 @@
-# Dominique Chin-Jones Portfolio
+# Dominique Chin-Jones
 Software Developer. Data Scientist.
 
 ## [YouTube Trending Music](https://github.com/cmdcjones/youtube-trending-music)
