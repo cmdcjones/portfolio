@@ -1,5 +1,5 @@
 # Dominique Chin-Jones
-Software Developer. Data Scientist.
+Software Engineer. Data Scientist.
 
 ## [YouTube Trending Music](https://github.com/cmdcjones/youtube-trending-music)
 #### December 2021 | Python, Google API, SQL
