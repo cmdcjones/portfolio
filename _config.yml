@@ -1,6 +1,5 @@
 theme: jekyll-theme-slate
 title: Hello, World!
 description: Welcome to my portfolio!
-avatar: "/assets/img/1580779171868.jpg"
 github:
   is_project_page: False
