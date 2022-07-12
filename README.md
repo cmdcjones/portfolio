@@ -1,6 +1,17 @@
 # Dominique Chin-Jones
 Software Engineer. Data Scientist.
 
+## [To-Do App](https://github.com/cmdcjones/to-do-web-app)
+#### July 2022 | Python, Flask, HTML/CSS, sqlite
+- Lightweight web app that creates a to-do list (tasks) with priority listing
+- Register user and authenticate using Flask middleware to secure create to-do list
+- Create, update, and delete tasks saved in sqlite database
+- Basic HTML/CSS for passable user interface (updating soon...)
+
+![](https://raw.githubusercontent.com/cmdcjones/portfolio/main/to-do-app1.png)
+![](https://raw.githubusercontent.com/cmdcjones/portfolio/main/to-do-app2.png)
+![](https://raw.githubusercontent.com/cmdcjones/portfolio/main/to-do-app3.png)
+
 ## [YouTube Trending Music](https://github.com/cmdcjones/youtube-trending-music)
 #### December 2021 | Python, Google API, SQL
 - Created a script that makes calls to the YouTube API for top trending videos in the Music category.
