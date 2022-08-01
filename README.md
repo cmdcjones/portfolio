@@ -1,5 +1,5 @@
 # Dominique Chin-Jones
-Software Engineer. Data Scientist.
+Software Developer
 
 ## [To-Do App](https://github.com/cmdcjones/to-do-web-app)
 #### July 2022 | Python, Flask, HTML/CSS, sqlite
